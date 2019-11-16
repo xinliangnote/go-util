@@ -9,3 +9,7 @@ func Encode(v interface{}) (string, error) {
 	}
 	return string(bytes), nil
 }
+
+func Decode(data []byte, val interface{}) error {
+	return json.Unmarshal(data, val)
+}
