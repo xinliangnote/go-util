@@ -18,6 +18,23 @@ go get github.com/xinliangnote/go-util
 - base64
     - base64.Encode
     - base64.Decode
+- convert
+    - convert.StrToInt64
+    - convert.StrToInt32
+    - convert.StrToInt
+    - convert.StrToFloat64
+    - convert.StrToByte
+    - convert.IntToStr
+    - convert.IntToInt32
+    - convert.IntToInt64
+    - convert.Int32ToInt
+    - convert.Int32ToInt64
+    - convert.Int64ToInt
+    - convert.Int64ToInt32
+    - convert.Int64ToStr
+- hashids
+    - hashids.Encrypt
+    - hashids.Decrypt
 - json
     - json.Encode
     - json.Decode
@@ -45,6 +62,7 @@ go get github.com/xinliangnote/go-util
 
 - uuid：github.com/google/uuid
 - gomail.v2：gopkg.in/gomail.v2
+- go-hashids：github.com/speps/go-hashids
 
 ## 一起学习
 
