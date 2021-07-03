@@ -1,6 +1,6 @@
 # go-util
 
-Go 工具包，已停止维护！，建议使用 [go-gin-api](https://github.com/xinliangnote/go-gin-api) 项目下 `/pkg` 目录的包。
+Go 工具包，已停止维护！建议使用 [go-gin-api](https://github.com/xinliangnote/go-gin-api) 项目下 `/pkg` 目录的包。
 
 ## 安装
 
